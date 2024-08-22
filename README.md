@@ -2,7 +2,7 @@
 
 ## Info
 <li>This is a simple ImGui cheat for the game <i>Idle Slayer</i></li>
-<li>Skid-friendly, though it is not recommended</li>
+<li>Skid-friendly</li>
 <br>
 
 ![pic](example.png "pic")
